@@ -1,12 +1,12 @@
 <?php
 class mock {
 
-        public function method1Updated()
+        public function method1()
         {
-                //code goes heredasdsad updated
+                //code goes here
         }
 
-        public function method2sdasda()
+        public function method2()
         {
                 $variable = "string tests";
                 return $variable
