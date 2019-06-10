@@ -3,7 +3,7 @@ class mock {
 
         public function method1()
         {
-                //code goes here
+                //code goes here dadasa
         }
 
         public function method2()
