@@ -3,7 +3,7 @@ class mock {
 
         public function method1UpdatedByPrerequisite2()
         {
-                //code goes here
+                //code goes here - updated here
         }
 
         public function method2()
