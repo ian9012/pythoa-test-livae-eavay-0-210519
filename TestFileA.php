@@ -6,7 +6,7 @@ class mock {
                 //code goes here
         }
 
-        public function method2()
+        public function method2sdasda()
         {
                 $variable = "string tests";
                 return $variable
